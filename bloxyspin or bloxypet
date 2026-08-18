@@ -1,0 +1,12 @@
+## 🎯 Recommended Platforms
+
+The tool is intended for use with coinflip systems that expose the server hash/seed information required by the analyzer.
+
+### ⭐ Recommended Testing
+
+* **BloxySpins** — recommended platform for testing
+* **Bloxypet** — another platform you can test compatibility with
+
+> **Note:** Compatibility depends on the platform's current coinflip implementation. The tool's predictions are not guaranteed, and changes to the platform's fairness system can affect results.
+
+For the best results, verify predictions against completed rounds and keep an accurate record of successful and unsuccessful predictions rather than assuming a fixed win rate.
